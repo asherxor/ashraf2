@@ -1,0 +1,16 @@
+{
+    "name": "Project",
+    "alias": "project",
+    "description": "Manage Projects, tasks, tasks time logs, activities and much more. Direct install by AnNguyen",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Project\\Providers\\ProjectServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        
+    ],
+    "requires": []
+}

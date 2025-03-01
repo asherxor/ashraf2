@@ -1,0 +1,23 @@
+{
+    "name": "nwidart/codecraftpluspos",
+    "description": "",
+    "authors": [
+        {
+            "name": "Misael García (TioGazpasho)",
+            "email": "misael@codecrafters360.com.mx"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\CodeCraftPlusPOS\\": ""
+        }
+    }
+}

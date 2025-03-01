@@ -1,0 +1,16 @@
+{
+    "name": "Crm",
+    "alias": "crm",
+    "description": "Customer relationship management module. Direct install by AnNguyen",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Crm\\Providers\\CrmServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        
+    ],
+    "requires": []
+}

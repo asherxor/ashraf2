@@ -1,0 +1,12 @@
+{
+    "name": "CodeCraftCurrencyAdd",
+    "alias": "codecraftcurrencyadd",
+    "description": "Configurador de monedas. @TioGazpasho - Codecrafters. Whatsapp: +52 1 8138965040.",
+    
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CodeCraftCurrencyAdd\\Providers\\CodeCraftCurrencyAddServiceProvider"
+    ],
+    "files": []
+}

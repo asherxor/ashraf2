@@ -1,0 +1,14 @@
+{
+    "name": "Accounting",
+    "alias": "accounting",
+    "description": "موديول الحسابات الجديد - تصميم المبرمج اشرف القوسي - https://albaseetsoft-ye.com - +967783020512",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Accounting\\Providers\\AccountingServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

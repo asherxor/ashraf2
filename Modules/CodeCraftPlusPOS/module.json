@@ -1,0 +1,11 @@
+{
+    "name": "CodeCraftPlusPOS",
+    "alias": "codecraftpluspos",
+    "description": "Ventana POS compatible con los modulos CodeCraft. @TioGazpasho - Codecrafters. Whatsapp: +52 1 8138965040.",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CodeCraftPlusPOS\\Providers\\CodeCraftPlusPOSServiceProvider"
+    ],
+    "files": []
+}

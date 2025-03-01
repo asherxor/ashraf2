@@ -1,0 +1,12 @@
+{
+    "name": "MultiCurrency",
+    "alias": "multicurrency",
+    "description": "Multi Currency Module allows user to purchase and sell with any currencies as wanted",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\MultiCurrency\\Providers\\MultiCurrencyServiceProvider"
+    ],
+    "files": []
+}
